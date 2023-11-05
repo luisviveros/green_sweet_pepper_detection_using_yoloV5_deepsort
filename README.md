@@ -1,0 +1,1 @@
+En este repositorio encontraran la información necesaria acerca de los scripts que se utilizaron de jupyter para poder entrenar la red neuronal para la detección objetos en pimientos para invernaderos
